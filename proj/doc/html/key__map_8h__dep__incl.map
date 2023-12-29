@@ -1,0 +1,14 @@
+<map id="devices/keyboard/key_map.h" name="devices/keyboard/key_map.h">
+<area shape="rect" id="node1" title=" " alt="" coords="357,5,520,47"/>
+<area shape="rect" id="node2" href="$keyboard_8h.html" title=" " alt="" coords="241,95,453,121"/>
+<area shape="rect" id="node11" href="$chess_8h.html" title=" " alt="" coords="476,95,588,121"/>
+<area shape="rect" id="node3" href="$dispatcher_8h.html" title=" " alt="" coords="84,169,239,196"/>
+<area shape="rect" id="node10" href="$keyboard_8c.html" title=" " alt="" coords="263,169,473,196"/>
+<area shape="rect" id="node4" href="$dispatcher_8c.html" title=" " alt="" coords="5,244,160,271"/>
+<area shape="rect" id="node5" href="$game_8h.html" title=" " alt="" coords="184,244,296,271"/>
+<area shape="rect" id="node6" href="$game_8c.html" title=" " alt="" coords="49,319,159,345"/>
+<area shape="rect" id="node7" href="$menu_8h.html" title=" " alt="" coords="184,319,296,345"/>
+<area shape="rect" id="node9" href="$proj_8c.html" title=" " alt="" coords="320,319,379,345"/>
+<area shape="rect" id="node8" href="$menu_8c.html" title=" " alt="" coords="185,393,295,420"/>
+<area shape="rect" id="node12" href="$chess_8c.html" title=" " alt="" coords="549,169,659,196"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="can_read_datetime" name="can_read_datetime">
+<area shape="rect" id="node1" title="Checks if the RTC is updating." alt="" coords="864,5,1011,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a119f164a4b93886f6a09853b5db3e505" title="Reads the date and time from the RTC." alt="" coords="699,5,816,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#aa302dc1a9ae2092b3880cec478cefa0d" title="RTC interrupt handler." alt="" coords="592,5,651,32"/>
+<area shape="rect" id="node4" href="$dispatcher_8c.html#a9a1321dd741df6d233bf497ab078e32b" title="Handles the RTC interrupts." alt="" coords="449,5,544,32"/>
+<area shape="rect" id="node5" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,5,401,32"/>
+<area shape="rect" id="node6" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node7" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

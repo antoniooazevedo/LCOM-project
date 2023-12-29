@@ -1,0 +1,12 @@
+<map id="clock_init" name="clock_init">
+<area shape="rect" id="node1" title="Initializes the clock with 5 minutes." alt="" coords="1004,56,1088,83"/>
+<area shape="rect" id="node2" href="$chess_8c.html#a7bb7e0a9bf268ff70364d5122004a844" title="Initializes the game board, setting the pieces in their initial positions." alt="" coords="861,56,956,83"/>
+<area shape="rect" id="node3" href="$game_8c.html#a47d86c55c1bc9d2a93df0b9476c4d630" title="Initializes the game, initializing the video card, loading the sprites and setting the state to MENU." alt="" coords="313,5,399,32"/>
+<area shape="rect" id="node6" href="$menu_8c.html#abf36a44a7928a0a3e9adab64416b71d5" title="Handles the menu logic for the keyboard actions." alt="" coords="636,56,813,83"/>
+<area shape="rect" id="node9" href="$menu_8c.html#a5e9a2074b6cd3214aa3bb1d0803a2133" title="Handles the menu logic for the mouse actions." alt="" coords="644,107,805,133"/>
+<area shape="rect" id="node4" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,31,263,57"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node7" href="$dispatcher_8c.html#a2f4098fc71cbd39422c1001d66970bf5" title="Handles the keyboard interrupts." alt="" coords="449,56,588,83"/>
+<area shape="rect" id="node8" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,56,401,83"/>
+<area shape="rect" id="node10" href="$dispatcher_8c.html#a6ca7c8595f4c1116a2e057ad74fe27a5" title="Handles the mouse interrupts." alt="" coords="457,107,580,133"/>
+</map>

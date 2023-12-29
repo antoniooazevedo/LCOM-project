@@ -1,0 +1,40 @@
+<map id="timer_handler" name="timer_handler">
+<area shape="rect" id="node1" title="Handles the timer interrupts." alt="" coords="5,284,119,311"/>
+<area shape="rect" id="node2" href="$clock_8c.html#a19d41f880d85671e590b6c2ea360a0d7" title="Checks if the clock has timed out (reached 0:00)" alt="" coords="178,5,293,32"/>
+<area shape="rect" id="node3" href="$clock_8c.html#a3858320e789f5154bf2030598829b1a4" title="Updates the clock time." alt="" coords="181,56,289,83"/>
+<area shape="rect" id="node4" href="$game_8c.html#aec18c086222dc26a3922c74f155acc56" title="Draws the background sprite." alt="" coords="359,120,497,147"/>
+<area shape="rect" id="node7" href="$chess_8c.html#aa6a495a94944bda567df909f84c62396" title="Draws the game board background." alt="" coords="379,183,477,209"/>
+<area shape="rect" id="node8" href="$menu_8c.html#a7d771989b41395d6d703f523c6fc22eb" title="Draws the menu." alt="" coords="186,309,285,336"/>
+<area shape="rect" id="node12" href="$chess_8c.html#a45d4d03030440275eb57d327ffa92e21" title="Draws all the pieces in the board." alt="" coords="184,461,287,488"/>
+<area shape="rect" id="node20" href="$chess_8c.html#a2ca8e3d746f3f156fcd168b9509b97b7" title="Draws the red background for the selected piece." alt="" coords="370,9,486,36"/>
+<area shape="rect" id="node21" href="$chess_8c.html#a0b0e26dc881bd5a2569939b7c7bf5b61" title="Checks if the king is in checkmate." alt="" coords="179,588,291,615"/>
+<area shape="rect" id="node34" href="$mouse_8c.html#a1526abbb0cbda21efd8b10a9e2702465" title="Draws the mouse&#39;s cursor." alt="" coords="352,63,504,89"/>
+<area shape="rect" id="node35" href="$chess_8c.html#ac461e2c971e475f03b477bd7350c65f1" title="Sets the game_over flag to true and stops the clock." alt="" coords="174,360,297,387"/>
+<area shape="rect" id="node37" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title="Timer 0 interrupt handler." alt="" coords="167,639,304,665"/>
+<area shape="rect" id="node38" href="$video_8c.html#a1622d960d9f550214c6795bc6474ae99" title="Copies the second buffer to the video memory and clears the second buffer." alt="" coords="175,689,296,716"/>
+<area shape="rect" id="node5" href="$sprite_8c.html#a600044d4fb3e3f4c81c7c6b95f90b883" title="Draws a sprite on the screen." alt="" coords="723,335,822,361"/>
+<area shape="rect" id="node6" href="$video_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="899,335,1013,361"/>
+<area shape="rect" id="node9" href="$menu_8c.html#a5606d8ee93f8a08a1a10d77f2b2c6581" title="Draws the game menu." alt="" coords="357,259,499,285"/>
+<area shape="rect" id="node11" href="$menu_8c.html#ad7ca2d21a727f7d55afef2392de3b5f8" title="Draws the main menu." alt="" coords="359,309,497,336"/>
+<area shape="rect" id="node10" href="$clock_8c.html#ab4a2ff02a78c0c9030b43c0e32f9c94a" title="Draws the clocks for both players." alt="" coords="557,208,651,235"/>
+<area shape="rect" id="node13" href="$chess_8c.html#a451b0d23be6ce1576d2a24f889d046f5" title="Draws a piece in the specified coordinates with the specified color." alt="" coords="380,512,476,539"/>
+<area shape="rect" id="node14" href="$chess_8c.html#a671f3c57cd8dc7dade2a61ed7b595615" title="Draws the bishop xpm in the specified coordinates with the specified color." alt="" coords="552,664,656,691"/>
+<area shape="rect" id="node15" href="$chess_8c.html#ad194f53f3b04a552cf7e00a1b16bfacf" title="Draws the king xpm in the specified coordinates with the specified color." alt="" coords="559,411,649,437"/>
+<area shape="rect" id="node16" href="$chess_8c.html#a9e44c818dcadc5a218e4dec8fe62048b" title="Draws the knight xpm in the specified coordinates with the specified color." alt="" coords="553,461,655,488"/>
+<area shape="rect" id="node17" href="$chess_8c.html#a69f780f0d9af9670f04a2c77ed90d6d4" title="Draws the pawn xpm in the specified coordinates with the specified color." alt="" coords="556,512,652,539"/>
+<area shape="rect" id="node18" href="$chess_8c.html#a86f09db408e8d1de0cf0de3a26a7979a" title="Draws the queen xpm in the specified coordinates with the specified color." alt="" coords="553,563,655,589"/>
+<area shape="rect" id="node19" href="$chess_8c.html#a5b602373fa62d49473105c61cb7d0d7f" title="Draws the rook xpm in the specified coordinates with the specified color." alt="" coords="559,613,649,640"/>
+<area shape="rect" id="node22" href="$chess_8c.html#a349976c700ff62dd392b8da6a564f5a0" title="Checks if a move to the specified coordinates leaves the king in check." alt="" coords="383,715,473,741"/>
+<area shape="rect" id="node24" href="$chess_8c.html#a0fd4c588ffa3d7507c7f7740e7e5402a" title="Checks if the king is in check." alt="" coords="565,765,643,792"/>
+<area shape="rect" id="node26" href="$chess_8c.html#a9145f2c8f292fd26164a528350d497ef" title="Gets an array with all the valid moves for the piece in the specified coordinates." alt="" coords="725,816,820,843"/>
+<area shape="rect" id="node23" href="$chess_8c.html#a56aa3cdc5f2d54582ba91ad0d9a78955" title="Copies the board matrix from src to dest." alt="" coords="555,715,653,741"/>
+<area shape="rect" id="node25" href="$chess_8c.html#a6a2c1119a65c42d81a34958e1e7a8a1a" title="Gets the king&#39;s position." alt="" coords="704,765,841,792"/>
+<area shape="rect" id="node27" href="$chess_8c.html#ad34e70db0f14dfe2e0eff20ec46ce7f9" title="Gets an array with all the valid moves for the selected piece." alt="" coords="889,816,1023,843"/>
+<area shape="rect" id="node28" href="$chess_8c.html#a5cb77f35b0a4a4c564454265f8dd5fd1" title="Gets an array with all the valid moves for the bishop." alt="" coords="1071,689,1253,716"/>
+<area shape="rect" id="node29" href="$chess_8c.html#a7fe2e269701760f231810eed9b18672a" title="Gets an array with all the valid moves for the king." alt="" coords="1078,740,1246,767"/>
+<area shape="rect" id="node30" href="$chess_8c.html#af2a012493b70087daf4f8c00acc0f2dd" title="Gets an array with all the valid moves for the knight." alt="" coords="1071,791,1253,817"/>
+<area shape="rect" id="node31" href="$chess_8c.html#a250d5548056052223622d8403470b945" title="Gets an array with all the valid moves for the pawn." alt="" coords="1075,841,1249,868"/>
+<area shape="rect" id="node32" href="$chess_8c.html#a41e6328fca431bb081ed6accb0b78c3b" title="Gets an array with all the valid moves for the queen." alt="" coords="1072,892,1252,919"/>
+<area shape="rect" id="node33" href="$chess_8c.html#ae934a0d6a795c1811453fe11927ac632" title="Gets an array with all the valid moves for the rook." alt="" coords="1077,943,1247,969"/>
+<area shape="rect" id="node36" href="$clock_8c.html#a0cbf4ea73722315c22e730bfeb158653" title="Stops the clock." alt="" coords="383,411,473,437"/>
+</map>

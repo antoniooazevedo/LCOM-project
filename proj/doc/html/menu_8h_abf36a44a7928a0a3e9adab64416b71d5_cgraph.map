@@ -1,0 +1,9 @@
+<map id="menu_handle_keyboard" name="menu_handle_keyboard">
+<area shape="rect" id="node1" title="Handles the menu logic for the keyboard actions." alt="" coords="5,81,183,108"/>
+<area shape="rect" id="node2" href="$chess_8c.html#a7bb7e0a9bf268ff70364d5122004a844" title="Initializes the game board, setting the pieces in their initial positions." alt="" coords="233,56,327,83"/>
+<area shape="rect" id="node6" href="$chess_8c.html#a0cd321bfa1b009b5518274b93bf9371f" title="Undoes the last move." alt="" coords="231,107,329,133"/>
+<area shape="rect" id="node3" href="$clock_8c.html#ae9cc0a879e88eea28e4e8b57318ef8e5" title="Initializes the clock with 5 minutes." alt="" coords="395,5,479,32"/>
+<area shape="rect" id="node4" href="$chess_8c.html#a56aa3cdc5f2d54582ba91ad0d9a78955" title="Copies the board matrix from src to dest." alt="" coords="388,107,485,133"/>
+<area shape="rect" id="node5" href="$chess_8c.html#a7d502a5f08787c1dd949da3aa0fd5819" title="Deselects the selected piece and sets the selected flag to false." alt="" coords="377,56,496,83"/>
+<area shape="rect" id="node7" href="$clock_8c.html#a65b39e31de0266cae6e1c13880123851" title="Sets the clock to the specified turn." alt="" coords="395,157,478,184"/>
+</map>

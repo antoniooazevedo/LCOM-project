@@ -1,0 +1,4 @@
+<map id="load_sprites" name="load_sprites">
+<area shape="rect" id="node1" title="Loads all the sprites." alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#ab3f2c422939737651070ac5019164e88" title="Creates a sprite based on a xpm." alt="" coords="155,5,261,32"/>
+</map>

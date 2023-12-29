@@ -1,0 +1,7 @@
+<map id="keyboard_restore" name="keyboard_restore">
+<area shape="rect" id="node1" title="Restores the Minix IH for the KBC." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$keyboard_2kbc_8c.html#ac2a89a254ec764eae5f58070478945d1" title="Reads the data from the KBC." alt="" coords="189,56,307,83"/>
+<area shape="rect" id="node5" href="$keyboard_2kbc_8c.html#a5ba07c94be2f21642eae6c1e93c10a37" title="Writes a command to the KBC." alt="" coords="188,5,308,32"/>
+<area shape="rect" id="node3" href="$keyboard_2kbc_8c.html#a478e9d9e6e396379599060715e26730a" title="Gets the status of the KBC." alt="" coords="356,5,476,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="524,31,623,57"/>
+</map>

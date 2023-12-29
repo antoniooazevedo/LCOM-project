@@ -1,0 +1,8 @@
+<map id="unsubscribe_devices" name="unsubscribe_devices">
+<area shape="rect" id="node1" title="Unsubscribes the devices&#39; interrupts." alt="" coords="5,81,163,108"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#ac95aea27a5e91b363b876fed881f368f" title="Unsubscribes keyboard interrupts." alt="" coords="211,5,401,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribes mouse interrupts." alt="" coords="219,56,393,83"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a9d4850bb2a488644672d43287f160622" title="Unsubscribes RTC interrupts." alt="" coords="232,107,380,133"/>
+<area shape="rect" id="node6" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="223,157,389,184"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#af08144b405e5afcfa5998b2b954e188b" title="Enables or disables RTC update interrupts." alt="" coords="449,107,637,133"/>
+</map>

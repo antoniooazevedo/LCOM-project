@@ -1,0 +1,5 @@
+<map id="undo_move" name="undo_move">
+<area shape="rect" id="node1" title="Undoes the last move." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$clock_8c.html#a65b39e31de0266cae6e1c13880123851" title="Sets the clock to the specified turn." alt="" coords="159,5,242,32"/>
+<area shape="rect" id="node3" href="$chess_8c.html#a56aa3cdc5f2d54582ba91ad0d9a78955" title="Copies the board matrix from src to dest." alt="" coords="152,56,249,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="draw_menu" name="draw_menu">
+<area shape="rect" id="node1" title="Draws the menu." alt="" coords="5,81,104,108"/>
+<area shape="rect" id="node2" href="$menu_8c.html#a5606d8ee93f8a08a1a10d77f2b2c6581" title="Draws the game menu." alt="" coords="152,56,295,83"/>
+<area shape="rect" id="node6" href="$menu_8c.html#ad7ca2d21a727f7d55afef2392de3b5f8" title="Draws the main menu." alt="" coords="343,107,481,133"/>
+<area shape="rect" id="node3" href="$clock_8c.html#ab4a2ff02a78c0c9030b43c0e32f9c94a" title="Draws the clocks for both players." alt="" coords="365,5,459,32"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#a600044d4fb3e3f4c81c7c6b95f90b883" title="Draws a sprite on the screen." alt="" coords="529,56,628,83"/>
+<area shape="rect" id="node5" href="$video_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="676,56,791,83"/>
+</map>

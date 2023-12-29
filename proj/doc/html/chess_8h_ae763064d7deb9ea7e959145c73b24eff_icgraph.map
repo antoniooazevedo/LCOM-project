@@ -1,0 +1,7 @@
+<map id="keyboard_handle_input" name="keyboard_handle_input">
+<area shape="rect" id="node1" title="Translates the scancode given into chess coordinates for piece selection and movement." alt="" coords="636,5,809,32"/>
+<area shape="rect" id="node2" href="$dispatcher_8c.html#a2f4098fc71cbd39422c1001d66970bf5" title="Handles the keyboard interrupts." alt="" coords="449,5,588,32"/>
+<area shape="rect" id="node3" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,5,401,32"/>
+<area shape="rect" id="node4" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

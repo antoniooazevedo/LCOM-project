@@ -1,0 +1,5 @@
+<map id="mouse_update_position" name="mouse_update_position">
+<area shape="rect" id="node1" title="Updates the mouse&#39;s position." alt="" coords="5,31,183,57"/>
+<area shape="rect" id="node2" href="$video_8c.html#a96831d611df1b6f4402dec1da8eaaef5" title="Gets the horizontal resolution of the current mode." alt="" coords="231,5,309,32"/>
+<area shape="rect" id="node3" href="$video_8c.html#a78dd2b06b6fcc0340901f687c42b6b59" title="Gets the vertical resolution of the current mode." alt="" coords="231,56,309,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="create_sprite" name="create_sprite">
+<area shape="rect" id="node1" title="Creates a sprite based on a xpm." alt="" coords="595,5,701,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a26d3dd4d93472051b4e0bb50e319494b" title="Loads all the sprites." alt="" coords="445,5,547,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a47d86c55c1bc9d2a93df0b9476c4d630" title="Initializes the game, initializing the video card, loading the sprites and setting the state to MENU." alt="" coords="311,5,397,32"/>
+<area shape="rect" id="node4" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

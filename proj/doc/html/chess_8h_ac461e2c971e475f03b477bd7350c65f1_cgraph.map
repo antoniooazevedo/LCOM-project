@@ -1,0 +1,6 @@
+<map id="set_game_over" name="set_game_over">
+<area shape="rect" id="node1" title="Sets the game_over flag to true and stops the clock." alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node2" href="$clock_8c.html#a0cbf4ea73722315c22e730bfeb158653" title="Stops the clock." alt="" coords="180,5,271,32"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#a600044d4fb3e3f4c81c7c6b95f90b883" title="Draws a sprite on the screen." alt="" coords="176,56,275,83"/>
+<area shape="rect" id="node4" href="$video_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="323,56,437,83"/>
+</map>

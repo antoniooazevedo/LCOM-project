@@ -1,0 +1,4 @@
+<map id="mouse_clicked_button" name="mouse_clicked_button">
+<area shape="rect" id="node1" title="Checks if the mouse clicked a button." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#afb5556f11b6df64a4bd7a3dab28fddb2" title="Checks if the mouse is over a button." alt="" coords="220,5,371,32"/>
+</map>

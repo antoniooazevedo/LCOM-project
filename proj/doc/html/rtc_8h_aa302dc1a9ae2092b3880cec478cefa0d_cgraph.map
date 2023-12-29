@@ -1,0 +1,5 @@
+<map id="rtc_ih" name="rtc_ih">
+<area shape="rect" id="node1" title="RTC interrupt handler." alt="" coords="5,5,64,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a119f164a4b93886f6a09853b5db3e505" title="Reads the date and time from the RTC." alt="" coords="112,5,229,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a67048300d04e94bef8a536226427e47d" title="Checks if the RTC is updating." alt="" coords="277,5,424,32"/>
+</map>

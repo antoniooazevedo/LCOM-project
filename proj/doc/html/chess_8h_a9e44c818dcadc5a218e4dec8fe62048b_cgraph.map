@@ -1,0 +1,5 @@
+<map id="draw_knight" name="draw_knight">
+<area shape="rect" id="node1" title="Draws the knight xpm in the specified coordinates with the specified color." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a600044d4fb3e3f4c81c7c6b95f90b883" title="Draws a sprite on the screen." alt="" coords="156,5,255,32"/>
+<area shape="rect" id="node3" href="$video_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="303,5,417,32"/>
+</map>

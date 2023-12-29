@@ -1,0 +1,10 @@
+<map id="get_moves" name="get_moves">
+<area shape="rect" id="node1" title="Gets an array with all the valid moves for the piece in the specified coordinates." alt="" coords="5,132,100,159"/>
+<area shape="rect" id="node2" href="$chess_8c.html#ad34e70db0f14dfe2e0eff20ec46ce7f9" title="Gets an array with all the valid moves for the selected piece." alt="" coords="148,132,281,159"/>
+<area shape="rect" id="node3" href="$chess_8c.html#a5cb77f35b0a4a4c564454265f8dd5fd1" title="Gets an array with all the valid moves for the bishop." alt="" coords="329,5,512,32"/>
+<area shape="rect" id="node4" href="$chess_8c.html#a7fe2e269701760f231810eed9b18672a" title="Gets an array with all the valid moves for the king." alt="" coords="337,56,505,83"/>
+<area shape="rect" id="node5" href="$chess_8c.html#af2a012493b70087daf4f8c00acc0f2dd" title="Gets an array with all the valid moves for the knight." alt="" coords="330,107,511,133"/>
+<area shape="rect" id="node6" href="$chess_8c.html#a250d5548056052223622d8403470b945" title="Gets an array with all the valid moves for the pawn." alt="" coords="333,157,508,184"/>
+<area shape="rect" id="node7" href="$chess_8c.html#a41e6328fca431bb081ed6accb0b78c3b" title="Gets an array with all the valid moves for the queen." alt="" coords="331,208,511,235"/>
+<area shape="rect" id="node8" href="$chess_8c.html#ae934a0d6a795c1811453fe11927ac632" title="Gets an array with all the valid moves for the rook." alt="" coords="336,259,505,285"/>
+</map>

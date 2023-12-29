@@ -1,0 +1,4 @@
+<map id="dump_sprites" name="dump_sprites">
+<area shape="rect" id="node1" title="Dumps all the sprites." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#af16c6befaac9ffb673b9e3c798d542ed" title="Destroys a sprite." alt="" coords="164,5,279,32"/>
+</map>

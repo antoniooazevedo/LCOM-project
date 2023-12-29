@@ -1,0 +1,24 @@
+<map id="draw_sprite" name="draw_sprite">
+<area shape="rect" id="node1" title="Draws a sprite on the screen." alt="" coords="1133,335,1232,361"/>
+<area shape="rect" id="node2" href="$game_8c.html#aec18c086222dc26a3922c74f155acc56" title="Draws the background sprite." alt="" coords="789,5,926,32"/>
+<area shape="rect" id="node7" href="$chess_8c.html#a671f3c57cd8dc7dade2a61ed7b595615" title="Draws the bishop xpm in the specified coordinates with the specified color." alt="" coords="981,107,1085,133"/>
+<area shape="rect" id="node10" href="$chess_8c.html#aa6a495a94944bda567df909f84c62396" title="Draws the game board background." alt="" coords="623,172,721,199"/>
+<area shape="rect" id="node11" href="$clock_8c.html#ab4a2ff02a78c0c9030b43c0e32f9c94a" title="Draws the clocks for both players." alt="" coords="986,411,1081,437"/>
+<area shape="rect" id="node12" href="$menu_8c.html#a5606d8ee93f8a08a1a10d77f2b2c6581" title="Draws the game menu." alt="" coords="786,461,929,488"/>
+<area shape="rect" id="node14" href="$chess_8c.html#ad194f53f3b04a552cf7e00a1b16bfacf" title="Draws the king xpm in the specified coordinates with the specified color." alt="" coords="989,157,1078,184"/>
+<area shape="rect" id="node15" href="$chess_8c.html#a9e44c818dcadc5a218e4dec8fe62048b" title="Draws the knight xpm in the specified coordinates with the specified color." alt="" coords="982,208,1085,235"/>
+<area shape="rect" id="node16" href="$menu_8c.html#ad7ca2d21a727f7d55afef2392de3b5f8" title="Draws the main menu." alt="" coords="788,512,927,539"/>
+<area shape="rect" id="node17" href="$chess_8c.html#a69f780f0d9af9670f04a2c77ed90d6d4" title="Draws the pawn xpm in the specified coordinates with the specified color." alt="" coords="985,259,1081,285"/>
+<area shape="rect" id="node18" href="$chess_8c.html#a86f09db408e8d1de0cf0de3a26a7979a" title="Draws the queen xpm in the specified coordinates with the specified color." alt="" coords="983,309,1084,336"/>
+<area shape="rect" id="node19" href="$chess_8c.html#a5b602373fa62d49473105c61cb7d0d7f" title="Draws the rook xpm in the specified coordinates with the specified color." alt="" coords="988,360,1079,387"/>
+<area shape="rect" id="node20" href="$chess_8c.html#a2ca8e3d746f3f156fcd168b9509b97b7" title="Draws the red background for the selected piece." alt="" coords="614,525,730,552"/>
+<area shape="rect" id="node21" href="$mouse_8c.html#a1526abbb0cbda21efd8b10a9e2702465" title="Draws the mouse&#39;s cursor." alt="" coords="781,613,933,640"/>
+<area shape="rect" id="node22" href="$chess_8c.html#ac461e2c971e475f03b477bd7350c65f1" title="Sets the game_over flag to true and stops the clock." alt="" coords="611,639,733,665"/>
+<area shape="rect" id="node3" href="$dispatcher_8c.html#a9e63ea32abae3f871fcbe66fd99003b2" title="Handles the timer interrupts." alt="" coords="449,468,563,495"/>
+<area shape="rect" id="node4" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,468,401,495"/>
+<area shape="rect" id="node5" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,468,263,495"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,468,128,495"/>
+<area shape="rect" id="node8" href="$chess_8c.html#a451b0d23be6ce1576d2a24f889d046f5" title="Draws a piece in the specified coordinates with the specified color." alt="" coords="809,259,905,285"/>
+<area shape="rect" id="node9" href="$chess_8c.html#a45d4d03030440275eb57d327ffa92e21" title="Draws all the pieces in the board." alt="" coords="621,339,723,365"/>
+<area shape="rect" id="node13" href="$menu_8c.html#a7d771989b41395d6d703f523c6fc22eb" title="Draws the menu." alt="" coords="623,468,721,495"/>
+</map>

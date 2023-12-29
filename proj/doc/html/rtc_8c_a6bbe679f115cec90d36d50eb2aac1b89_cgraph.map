@@ -1,0 +1,4 @@
+<map id="rtc_subscribe_int" name="rtc_subscribe_int">
+<area shape="rect" id="node1" title="Subscribes and enables RTC interrupts." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#af08144b405e5afcfa5998b2b954e188b" title="Enables or disables RTC update interrupts." alt="" coords="185,5,373,32"/>
+</map>

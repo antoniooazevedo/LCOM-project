@@ -1,0 +1,6 @@
+<map id="load_board" name="load_board">
+<area shape="rect" id="node1" title="Initializes the game board, setting the pieces in their initial positions." alt="" coords="5,56,100,83"/>
+<area shape="rect" id="node2" href="$clock_8c.html#ae9cc0a879e88eea28e4e8b57318ef8e5" title="Initializes the clock with 5 minutes." alt="" coords="165,5,249,32"/>
+<area shape="rect" id="node3" href="$chess_8c.html#a56aa3cdc5f2d54582ba91ad0d9a78955" title="Copies the board matrix from src to dest." alt="" coords="159,56,256,83"/>
+<area shape="rect" id="node4" href="$chess_8c.html#a7d502a5f08787c1dd949da3aa0fd5819" title="Deselects the selected piece and sets the selected flag to false." alt="" coords="148,107,267,133"/>
+</map>

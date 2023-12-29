@@ -1,0 +1,11 @@
+<map id="kbc_read_data" name="kbc_read_data">
+<area shape="rect" id="node1" title="Reads the data from the KBC." alt="" coords="819,56,936,83"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a6a2a6c2b64c950d09dbcc2cc52073e12" title="Keyboard interrupt handler." alt="" coords="653,5,754,32"/>
+<area shape="rect" id="node7" href="$keyboard_8c.html#a30aab366321c5fcad9b30c3afc1c3d4a" title="Restores the Minix IH for the KBC." alt="" coords="636,56,771,83"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler." alt="" coords="661,107,746,133"/>
+<area shape="rect" id="node3" href="$dispatcher_8c.html#a2f4098fc71cbd39422c1001d66970bf5" title="Handles the keyboard interrupts." alt="" coords="449,19,588,45"/>
+<area shape="rect" id="node4" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,56,401,83"/>
+<area shape="rect" id="node5" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,56,263,83"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node9" href="$dispatcher_8c.html#a6ca7c8595f4c1116a2e057ad74fe27a5" title="Handles the mouse interrupts." alt="" coords="457,81,580,108"/>
+</map>

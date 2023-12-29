@@ -1,0 +1,11 @@
+<map id="menu_handle_mouse" name="menu_handle_mouse">
+<area shape="rect" id="node1" title="Handles the menu logic for the mouse actions." alt="" coords="5,157,167,184"/>
+<area shape="rect" id="node2" href="$chess_8c.html#a7bb7e0a9bf268ff70364d5122004a844" title="Initializes the game board, setting the pieces in their initial positions." alt="" coords="251,81,345,108"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#a211e2936029f9cfa2b56c9a74a862cac" title="Checks if the mouse clicked a button." alt="" coords="215,208,381,235"/>
+<area shape="rect" id="node8" href="$chess_8c.html#a0cd321bfa1b009b5518274b93bf9371f" title="Undoes the last move." alt="" coords="249,157,347,184"/>
+<area shape="rect" id="node3" href="$clock_8c.html#ae9cc0a879e88eea28e4e8b57318ef8e5" title="Initializes the clock with 5 minutes." alt="" coords="463,56,547,83"/>
+<area shape="rect" id="node4" href="$chess_8c.html#a56aa3cdc5f2d54582ba91ad0d9a78955" title="Copies the board matrix from src to dest." alt="" coords="456,107,553,133"/>
+<area shape="rect" id="node5" href="$chess_8c.html#a7d502a5f08787c1dd949da3aa0fd5819" title="Deselects the selected piece and sets the selected flag to false." alt="" coords="445,5,564,32"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#afb5556f11b6df64a4bd7a3dab28fddb2" title="Checks if the mouse is over a button." alt="" coords="429,208,580,235"/>
+<area shape="rect" id="node9" href="$clock_8c.html#a65b39e31de0266cae6e1c13880123851" title="Sets the clock to the specified turn." alt="" coords="463,157,546,184"/>
+</map>

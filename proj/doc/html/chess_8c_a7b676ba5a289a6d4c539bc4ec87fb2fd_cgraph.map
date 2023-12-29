@@ -1,0 +1,4 @@
+<map id="mouse_select_piece" name="mouse_select_piece">
+<area shape="rect" id="node1" title="Selects a piece in the specified coordinates." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$chess_8c.html#add9f61af8808ad81acef6187c7fc7e4f" title="Selects a piece in the specified coordinates and sets the selected flag to true." alt="" coords="208,5,311,32"/>
+</map>

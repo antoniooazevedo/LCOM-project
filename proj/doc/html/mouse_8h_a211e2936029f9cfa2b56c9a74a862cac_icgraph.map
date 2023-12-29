@@ -1,0 +1,8 @@
+<map id="mouse_clicked_button" name="mouse_clicked_button">
+<area shape="rect" id="node1" title="Checks if the mouse clicked a button." alt="" coords="829,5,996,32"/>
+<area shape="rect" id="node2" href="$menu_8c.html#a5e9a2074b6cd3214aa3bb1d0803a2133" title="Handles the menu logic for the mouse actions." alt="" coords="620,5,781,32"/>
+<area shape="rect" id="node3" href="$dispatcher_8c.html#a6ca7c8595f4c1116a2e057ad74fe27a5" title="Handles the mouse interrupts." alt="" coords="449,5,572,32"/>
+<area shape="rect" id="node4" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,5,401,32"/>
+<area shape="rect" id="node5" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

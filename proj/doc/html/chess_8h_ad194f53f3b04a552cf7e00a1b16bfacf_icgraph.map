@@ -1,0 +1,9 @@
+<map id="draw_king" name="draw_king">
+<area shape="rect" id="node1" title="Draws the king xpm in the specified coordinates with the specified color." alt="" coords="905,5,995,32"/>
+<area shape="rect" id="node2" href="$chess_8c.html#a451b0d23be6ce1576d2a24f889d046f5" title="Draws a piece in the specified coordinates with the specified color." alt="" coords="761,5,857,32"/>
+<area shape="rect" id="node3" href="$chess_8c.html#a45d4d03030440275eb57d327ffa92e21" title="Draws all the pieces in the board." alt="" coords="611,5,713,32"/>
+<area shape="rect" id="node4" href="$dispatcher_8c.html#a9e63ea32abae3f871fcbe66fd99003b2" title="Handles the timer interrupts." alt="" coords="449,5,563,32"/>
+<area shape="rect" id="node5" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,5,401,32"/>
+<area shape="rect" id="node6" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node7" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

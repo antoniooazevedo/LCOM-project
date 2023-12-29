@@ -1,0 +1,18 @@
+<map id="get_valid_king_moves" name="get_valid_king_moves">
+<area shape="rect" id="node1" title="Gets an array with all the valid moves for the king." alt="" coords="1771,56,1939,83"/>
+<area shape="rect" id="node2" href="$chess_8c.html#ad34e70db0f14dfe2e0eff20ec46ce7f9" title="Gets an array with all the valid moves for the selected piece." alt="" coords="1589,56,1723,83"/>
+<area shape="rect" id="node3" href="$chess_8c.html#a9145f2c8f292fd26164a528350d497ef" title="Gets an array with all the valid moves for the piece in the specified coordinates." alt="" coords="1447,31,1541,57"/>
+<area shape="rect" id="node11" href="$chess_8c.html#a1c5710bd77d131140abf8d02c8ae993c" title="Checks if the specified move is valid." alt="" coords="1019,81,1135,108"/>
+<area shape="rect" id="node4" href="$chess_8c.html#a0fd4c588ffa3d7507c7f7740e7e5402a" title="Checks if the king is in check." alt="" coords="1320,31,1399,57"/>
+<area shape="rect" id="node6" href="$chess_8c.html#a0b0e26dc881bd5a2569939b7c7bf5b61" title="Checks if the king is in checkmate." alt="" coords="1021,5,1133,32"/>
+<area shape="rect" id="node5" href="$chess_8c.html#a349976c700ff62dd392b8da6a564f5a0" title="Checks if a move to the specified coordinates leaves the king in check." alt="" coords="1183,56,1272,83"/>
+<area shape="rect" id="node7" href="$dispatcher_8c.html#a9e63ea32abae3f871fcbe66fd99003b2" title="Handles the timer interrupts." alt="" coords="857,5,971,32"/>
+<area shape="rect" id="node8" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,56,401,83"/>
+<area shape="rect" id="node9" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,56,263,83"/>
+<area shape="rect" id="node10" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node12" href="$chess_8c.html#ac4114fa0e31fa182ef71efe8c494a4f0" title="Moves the selected piece to the specified coordinates." alt="" coords="863,81,965,108"/>
+<area shape="rect" id="node13" href="$chess_8c.html#ae763064d7deb9ea7e959145c73b24eff" title="Translates the scancode given into chess coordinates for piece selection and movement." alt="" coords="636,107,809,133"/>
+<area shape="rect" id="node15" href="$chess_8c.html#a2f17537c18e1455883b8c704c866c498" title="Moves the selected piece to the specified coordinates." alt="" coords="647,56,799,83"/>
+<area shape="rect" id="node14" href="$dispatcher_8c.html#a2f4098fc71cbd39422c1001d66970bf5" title="Handles the keyboard interrupts." alt="" coords="449,107,588,133"/>
+<area shape="rect" id="node16" href="$dispatcher_8c.html#a6ca7c8595f4c1116a2e057ad74fe27a5" title="Handles the mouse interrupts." alt="" coords="457,56,580,83"/>
+</map>

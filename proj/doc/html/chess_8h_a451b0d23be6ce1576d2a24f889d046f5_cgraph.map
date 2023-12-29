@@ -1,0 +1,11 @@
+<map id="draw_piece" name="draw_piece">
+<area shape="rect" id="node1" title="Draws a piece in the specified coordinates with the specified color." alt="" coords="5,132,101,159"/>
+<area shape="rect" id="node2" href="$chess_8c.html#a671f3c57cd8dc7dade2a61ed7b595615" title="Draws the bishop xpm in the specified coordinates with the specified color." alt="" coords="149,5,253,32"/>
+<area shape="rect" id="node5" href="$chess_8c.html#ad194f53f3b04a552cf7e00a1b16bfacf" title="Draws the king xpm in the specified coordinates with the specified color." alt="" coords="157,56,246,83"/>
+<area shape="rect" id="node6" href="$chess_8c.html#a9e44c818dcadc5a218e4dec8fe62048b" title="Draws the knight xpm in the specified coordinates with the specified color." alt="" coords="150,107,253,133"/>
+<area shape="rect" id="node7" href="$chess_8c.html#a69f780f0d9af9670f04a2c77ed90d6d4" title="Draws the pawn xpm in the specified coordinates with the specified color." alt="" coords="153,157,249,184"/>
+<area shape="rect" id="node8" href="$chess_8c.html#a86f09db408e8d1de0cf0de3a26a7979a" title="Draws the queen xpm in the specified coordinates with the specified color." alt="" coords="151,208,252,235"/>
+<area shape="rect" id="node9" href="$chess_8c.html#a5b602373fa62d49473105c61cb7d0d7f" title="Draws the rook xpm in the specified coordinates with the specified color." alt="" coords="156,259,247,285"/>
+<area shape="rect" id="node3" href="$sprite_8c.html#a600044d4fb3e3f4c81c7c6b95f90b883" title="Draws a sprite on the screen." alt="" coords="301,132,400,159"/>
+<area shape="rect" id="node4" href="$video_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="448,132,563,159"/>
+</map>

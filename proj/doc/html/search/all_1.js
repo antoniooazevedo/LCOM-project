@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['can_5fmove_19',['can_move',['../chess_8h.html#a349976c700ff62dd392b8da6a564f5a0',1,'can_move(int row, int col):&#160;chess.c'],['../chess_8c.html#a349976c700ff62dd392b8da6a564f5a0',1,'can_move(int row, int col):&#160;chess.c']]],
+  ['can_5fread_5fdatetime_20',['can_read_datetime',['../rtc_8h.html#a67048300d04e94bef8a536226427e47d',1,'can_read_datetime():&#160;rtc.c'],['../rtc_8c.html#a67048300d04e94bef8a536226427e47d',1,'can_read_datetime():&#160;rtc.c']]],
+  ['chess_21',['chess',['../group__chess.html',1,'']]],
+  ['chess_2ec_22',['chess.c',['../chess_8c.html',1,'']]],
+  ['chess_2eh_23',['chess.h',['../chess_8h.html',1,'']]],
+  ['clock_24',['clock',['../group__clock.html',1,'']]],
+  ['clock_25',['Clock',['../structClock.html',1,'']]],
+  ['clock_2ec_26',['clock.c',['../clock_8c.html',1,'']]],
+  ['clock_2eh_27',['clock.h',['../clock_8h.html',1,'']]],
+  ['clock_5fbackground_28',['clock_background',['../clock_8h.html#a3b6c455be12b9a7c1552b1fc6daa5bf5',1,'clock_background():&#160;sprite.h'],['../sprite_8h.html#a3b6c455be12b9a7c1552b1fc6daa5bf5',1,'clock_background():&#160;sprite.h']]],
+  ['clock_5finit_29',['clock_init',['../clock_8c.html#ae9cc0a879e88eea28e4e8b57318ef8e5',1,'clock_init():&#160;clock.c'],['../clock_8h.html#ae9cc0a879e88eea28e4e8b57318ef8e5',1,'clock_init():&#160;clock.c']]],
+  ['clock_5fset_30',['clock_set',['../clock_8c.html#a65b39e31de0266cae6e1c13880123851',1,'clock_set(bool white_turn):&#160;clock.c'],['../clock_8h.html#a65b39e31de0266cae6e1c13880123851',1,'clock_set(bool white_turn):&#160;clock.c']]],
+  ['clock_5fstop_31',['clock_stop',['../clock_8c.html#a0cbf4ea73722315c22e730bfeb158653',1,'clock_stop():&#160;clock.c'],['../clock_8h.html#a0cbf4ea73722315c22e730bfeb158653',1,'clock_stop():&#160;clock.c']]],
+  ['clock_5ftimeout_32',['clock_timeout',['../clock_8c.html#a19d41f880d85671e590b6c2ea360a0d7',1,'clock_timeout():&#160;clock.c'],['../clock_8h.html#a19d41f880d85671e590b6c2ea360a0d7',1,'clock_timeout():&#160;clock.c']]],
+  ['clock_5fupdate_33',['clock_update',['../clock_8c.html#a3858320e789f5154bf2030598829b1a4',1,'clock_update():&#160;clock.c'],['../clock_8h.html#a3858320e789f5154bf2030598829b1a4',1,'clock_update():&#160;clock.c']]],
+  ['col_34',['col',['../structPosition.html#af7a05862963df619605457252dea6682',1,'Position']]],
+  ['color_35',['Color',['../chess_8h.html#ab87bacfdad76e61b9412d7124be44c1c',1,'chess.h']]],
+  ['color_36',['color',['../structPiece.html#a4cf5b29a9e13dcb93b616b11160c2abc',1,'Piece']]],
+  ['colors_37',['colors',['../structSprite.html#a394114f3fce04459a1593a68166c8621',1,'Sprite']]],
+  ['copy_5fboard_38',['copy_board',['../chess_8c.html#a56aa3cdc5f2d54582ba91ad0d9a78955',1,'copy_board(Piece dest[8][8], Piece src[8][8]):&#160;chess.c'],['../chess_8h.html#a56aa3cdc5f2d54582ba91ad0d9a78955',1,'copy_board(Piece dest[8][8], Piece src[8][8]):&#160;chess.c']]],
+  ['count_5fmode_39',['count_mode',['../uniontimer__status__field__val.html#a069cd58184fd977a3345d560f159037a',1,'timer_status_field_val']]],
+  ['create_5fsprite_40',['create_sprite',['../sprite_8c.html#ab3f2c422939737651070ac5019164e88',1,'create_sprite(xpm_map_t xpm):&#160;sprite.c'],['../sprite_8h.html#ab3f2c422939737651070ac5019164e88',1,'create_sprite(xpm_map_t xpm):&#160;sprite.c']]],
+  ['cursor_41',['cursor',['../mouse_8h.html#a3a7ea4305773abf5347bb261a8a5c16b',1,'cursor():&#160;sprite.h'],['../sprite_8h.html#a3a7ea4305773abf5347bb261a8a5c16b',1,'cursor():&#160;sprite.h']]]
+];

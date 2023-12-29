@@ -1,0 +1,7 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="node1" title="Reads the input timer configuration via read&#45;back command." alt="" coords="653,5,773,32"/>
+<area shape="rect" id="node2" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Sets the frequency of a timer." alt="" coords="449,5,605,32"/>
+<area shape="rect" id="node3" href="$dispatcher_8c.html#a90d955158b0b79738af515ab76133e11" title="Handles the interrupts of all the devices." alt="" coords="311,5,401,32"/>
+<area shape="rect" id="node4" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>

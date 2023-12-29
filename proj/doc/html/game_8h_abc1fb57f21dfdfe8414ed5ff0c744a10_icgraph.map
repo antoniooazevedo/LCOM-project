@@ -1,0 +1,5 @@
+<map id="game_exit" name="game_exit">
+<area shape="rect" id="node1" title="Exits the game, exiting the video card and dumping the sprites." alt="" coords="311,5,401,32"/>
+<area shape="rect" id="node2" href="$game_8c.html#a4b24a7c83ab20552fb27e9472fe90887" title="Runs the game, initializing it, running the dispatcher." alt="" coords="176,5,263,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,128,32"/>
+</map>
